@@ -13,4 +13,6 @@ In development and or links to bought modules are the below:
   * Sound level sensor (module)
 
 # License
-These circuits are not to be used in any way for any means, other than by Sam Mottley.   
+These circuits are not to be used in any way for any means, other than by Sam Mottley.
+## Reason
+These circuit are for my Mircontrollers unit on my Electronics Degree. 
